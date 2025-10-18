@@ -1,0 +1,44 @@
+schema_version = "1.0.0"
+
+# Unique identifier for the extension (reverse domain notation)
+id = "bend_helper"
+version = "1.3.0"
+name = "Bend Helper"
+tagline = "Interactive multi-axis mesh bending with GPU handles"
+maintainer = "Your Name <your.email@example.com>"
+
+# Supported Blender version
+type = "add-on"
+
+# License (must be compatible with Blender's GPL)
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+# Minimum Blender version required
+blender_version_min = "4.3.0"
+
+# Optional: Maximum Blender version (omit for "any future version")
+# blender_version_max = "4.6.0"
+
+# Tags for discoverability in Extensions platform
+tags = [
+  "Modeling",
+  "Mesh",
+  "Deform",
+  "3D View",
+]
+
+# Permissions required by the extension
+# permissions = []
+
+# Website/repository (optional but recommended)
+# website = "https://github.com/yourusername/bend-helper"
+
+# Copyright notice
+# copyright = [
+#   "2025 Your Name",
+# ]
+
+# Wheels (Python dependencies) - empty for this extension
+# wheels = []
