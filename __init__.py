@@ -1,12 +1,12 @@
 bl_info = {
     "name": "Bend Helper",
-    "author": "Your Name",
+    "author": "SynrgStudio",
     "version": (1, 3, 0),
     "blender": (4, 3, 0),
     "location": "View3D > Sidebar > Bend Helper",
     "description": "Interactive multi-axis mesh bending with GPU handles and multi-object support",
     "category": "Mesh",
-    "doc_url": "",
+    "doc_url": "https://github.com/SynrgStudio/bend_helper",
     "tracker_url": "",
 }
 
